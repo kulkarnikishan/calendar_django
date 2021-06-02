@@ -24,7 +24,7 @@ requests==2.23.0
 six==1.15.0
 sqlparse==0.3.1
 tinycss2==1.0.2
-urllib3==1.25.9
+urllib3==1.26.5
 WeasyPrint==51
 webencodings==0.5.1
 xlrd==1.2.0
