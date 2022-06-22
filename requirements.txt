@@ -11,7 +11,7 @@ djangorestframework==3.11.0
 fpdf==1.7.2
 html5lib==1.0.1
 idna==2.9
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 pdfkit==0.6.1
 Pillow==7.1.2
